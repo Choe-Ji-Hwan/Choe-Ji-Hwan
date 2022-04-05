@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=3,3,3,3,3,4&height=200&section=header&text=Choe-Ji-Hwan&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=3,3,3,3,3,4&height=200&section=header&text=Choe-Ji-Hwan&fontSize=50" />
   <div align="center">I hope to be an app developer<div></br></br>
   <div float="left">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghldtjd901"/></br>
