@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=3,3,3,3,3,4&height=200&section=header&text=Choe-Ji-Hwan&fontSize=50" />
+<img src="https://capsule-render.zohan.tech/api?type=Waving&color=auto&customColorList=3,3,3,3,3,4&height=200&section=header&text=Choe-Ji-Hwan&fontSize=50" />
   <div align="center">I hope to be an app developer<div></br></br>
   <div float="left">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghldtjd901"/></br>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/54761791/161785905-9c96ed8c-6a8e-4143-9ae9-e26febb92454.svg" width=25 height=25/>
 <img src="https://user-images.githubusercontent.com/54761791/161785910-a0802c3c-c048-4895-82e3-bf50e25df38d.svg" width=25 height=25/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choe-Ji-Hwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Choe-Ji-Hwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
   </div>
  
