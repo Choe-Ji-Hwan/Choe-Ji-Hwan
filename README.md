@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=3,3,3,3,3,4&height=200&section=header&text=Choe-Ji-Hwan&fontSize=50" />
-  <div align="center">I hope to be an app developer<div></br></br>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&customColorList=3,3,3,3,3,4&height=200&section=header&text=Ji-Hwan&fontSize=50" />
+  <div align="center">I am an app developer<div></br>
+  
   <div float="left">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ghldtjd901"/></br>
 <img src="https://user-images.githubusercontent.com/54761791/161787463-9ba3d32c-bec4-4eba-b086-448efa08a549.svg" width=25 height=25/>
@@ -34,9 +35,8 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Choe-Ji-Hwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
   </div>
- 
-### My github state
-  
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoe-Ji-Hwan&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></br>
-<img src="https://github-readme-stats.vercel.app/api?username=Choe-Ji-Hwan&&show_icons=true&theme=flag-india"/></br>
-</div>
+
+  ### 활동
+  네이버 커넥트재단 부스트캠프 웹・모바일 7기 </br>
+  2022.07.18. ~ 2022.08.12. 챌린지(안드로이드) </br>
+  2022.08.31. ~ 2022.12.16. 멤버십() </br>
