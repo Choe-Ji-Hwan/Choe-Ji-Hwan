@@ -35,8 +35,13 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=Choe-Ji-Hwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
   </div>
-
+  
   ### 활동
+  
+  <div float="left">
+    
   네이버 커넥트재단 부스트캠프 웹・모바일 7기 </br>
   2022.07.18. ~ 2022.08.12. 챌린지(안드로이드) </br>
-  2022.08.31. ~ 2022.12.16. 멤버십() </br>
+  2022.08.31. ~ 2022.12.16. 멤버십(안드로이드) </br>
+  
+  </div>
